@@ -1,0 +1,27 @@
+* {
+	background: #d6d3d3;
+}
+ form
+{ background: white
+ }
+ input {
+ 	background: #d6d3d3;}
+
+ button {
+ 	background: white
+ }
+ text{
+ 	background: white
+ }
+ button {
+ 	background: white
+ }
+ p {
+ 	background: white
+ }
+ form input:focus { background: #f7f5f5;
+ }
+
+ form textarea:focus { background: #f7f5f5;
+ }
+ 
